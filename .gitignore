@@ -1,3 +1,6 @@
+# Remove .DS_Store from project
+.DS_Store
+
 # Compiled class file
 *.class
 
